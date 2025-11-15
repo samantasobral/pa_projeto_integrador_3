@@ -1,0 +1,11 @@
+[theme]
+
+#Primary accent color for interactive elements
+primaryColor = "#E694FF"
+
+#Background color used for the main area
+backgroundColor = "#00172B"
+
+secondaryBackgroundColor = "#0083B8"
+
+textColor = "#FFF"
